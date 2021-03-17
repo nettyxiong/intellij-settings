@@ -3,6 +3,35 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cpp" />
+    <option name="FILE_MASK" value="*.proto" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.cp</mask>
+    <mask>*.inl</mask>
+    <mask>*.ino</mask>
+    <mask>*.cuh</mask>
+    <mask>*.pch</mask>
+    <mask>*.c++</mask>
+    <mask>*.icc</mask>
+    <mask>*.ipp</mask>
+    <mask>*.h++</mask>
+    <mask>*.c</mask>
+    <mask>*.i</mask>
+    <mask>*.m</mask>
+    <mask>*.cxx</mask>
+    <mask>*.hh</mask>
+    <mask>*.hp</mask>
+    <mask>*.hxx</mask>
+    <mask>*.ii</mask>
+    <mask>*.hpp</mask>
+    <mask>*.tcc</mask>
+    <mask>*.mm</mask>
+    <mask>*.tpp</mask>
+    <mask>*.cu</mask>
+    <mask>*.cc</mask>
+    <mask>*.h</mask>
+    <mask>*.cpp</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
