@@ -30,6 +30,7 @@
     <mask>*.cu</mask>
     <mask>*.cc</mask>
     <mask>*.h</mask>
+    <mask>*.txt</mask>
     <mask>*.proto</mask>
     <mask>*.cpp</mask>
   </component>
